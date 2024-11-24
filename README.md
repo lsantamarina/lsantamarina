@@ -18,7 +18,7 @@ Alicante, Spain
 `dev env | prod env` / `windows | ubuntu` / `php` / `mysql` | `mariadb` / `composer` / `laravel` / `node` / `npm` / `puppeteer` / `chromium`
     - **cemex api**: logistics services management app, manages (intern: crud, extern: outsource directly assigned to provider, outsource provider pickable contest, contest outsource pick by provider) concrete truck / mixer services based of concrete plants requirements (truck axles, volumen)  
 `php` / `mysql` / `composer` / `laravel`
-    - _(on hold since 08/2024)_ **transport app**: laravel-php api + vue3 app, will manage company's logistic transport services (trucks, trips, sales, invoices, reports)  
+    - **transport api + app**: laravel-php api + vue3 app, will manage company's logistic transport services (trucks, trips, sales, invoices, reports)  
 `dev env | stage env | prod env` / `php` / `mysql | mariadb | mariadb` / `composer` / `laravel` / `vue` / `npm` / `tailwind`
     - **gps api**: webfleet api connector api, imports drivers gps platform data intervals (by driverno) for trucker working times management and HR / sales data.  
 `dev env | prod env` / `php` / `mysql` / `composer` / `symfony`
