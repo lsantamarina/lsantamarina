@@ -1,5 +1,3 @@
-_The planet broke before the guard did_
-
 # Luis Santamarina Alcain
 
 *Spanish*  
@@ -10,15 +8,16 @@ _The planet broke before the guard did_
 
 ## Working experience
 
-- **11-2022 – `<?= (new \DateTimeImmutable('now'))->format('m-Y') ?>`**  
+- **11-2022 – 04-2025**  
 Alicante, Spain  
 **_/conwork_**  
-**Senior developer**
+**Senior developer**  
+Laravel Api + Vue App projects
     - **pdfserver**: laravel-php api recives html content, returns base64 encoded pdf  
 `dev env | prod env` / `windows | ubuntu` / `php` / `mysql` | `mariadb` / `composer` / `laravel` / `node` / `npm` / `puppeteer` / `chromium`
     - **cemex api**: logistics services management app, manages (intern: crud, extern: outsource directly assigned to provider, outsource provider pickable contest, contest outsource pick by provider) concrete truck / mixer services based of concrete plants requirements (truck axles, volumen)  
 `php` / `mysql` / `composer` / `laravel`
-    - **transport api + app**: laravel-php api + vue3 app, will manage company's logistic transport services (trucks, trips, sales, invoices, reports)  
+    - **transport api + app**: tenancy laravel-php api + vue3 app, will manage company's logistic transport services (trucks, trips, sales, invoices, reports)  
 `dev env | stage env | prod env` / `php` / `mysql | mariadb | mariadb` / `composer` / `laravel` / `vue` / `npm` / `tailwind`
     - **gps api**: webfleet api connector api, imports drivers gps platform data intervals (by driverno) for trucker working times management and HR / sales data.  
 `dev env | prod env` / `php` / `mysql` / `composer` / `symfony`
@@ -27,7 +26,8 @@ Alicante, Spain
 Stuttgart, Germany  
 **_Weitclick GmbH / oddity_**  
 **Junior developer / Online developer**  
-Yii & Yii2 projects (corporate websites with client integration and / or campaign specials, warranty management site, ...) for big clients (Mercedes-Benz Vans, Schneider, Weleda, FEIN, Leitz)  
+Yii & Yii2 projects (corporate websites with customized backends, campaign specials, warranty management, ...)  
+_Mercedes-Benz Vans, Schneider, Weleda, FEIN, Leitz_  
 `dev env | stage, prod envs` / `macosx | unix` / `docker` / `vagrant` / `php` / `mysql` / `composer` / `yii | yii2` / `grunt  gulp` / `js` / `jquery` / `sass | scss` / `css3`
 
 - **04-2011 – 02-2012**  
@@ -83,7 +83,7 @@ _Scientific-Technical bachelor_
 | English     |           C1            |          C1           |       B1        |       B2         |        B1          |
 
 ## Competences
-`php` / `composer` / `laravel` / `rest api`
+`php` / `composer` / `laravel` (`dedoc/scramble | spatie/laravel-permission | stancl/tenancy | ...`) / `rest api`
 
 `git`
 
@@ -91,4 +91,4 @@ _Scientific-Technical bachelor_
 
 `html | css` / `tailwind` / `sass | scss`
 
-`windows` / `linux` / `gitlab` / `docker` / `html5` / `jquery` / `json` / `bootstrap` / `ajax` / `yii | yii2`
+`windows` / `linux` / `gitlab` / `docker` / `html5` / `jquery` / `json` / `bootstrap` / `ajax` / `yii | yii2` / `slim`
