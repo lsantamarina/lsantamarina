@@ -38,7 +38,7 @@ Feature development & bug fixing for client or intern projects
 `php` / `mysql` / `js` / `css` / `html`
 
 - **07-2010 – 08-2010**  
-San Sebastian, Spain 
+San Sebastian, Spain  
 **_Factor Ideas_**  
 **Internship**  
 Clients pages management, content creation for codigniter already existing projects or wordpress sites  
