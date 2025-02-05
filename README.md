@@ -12,7 +12,10 @@
 Alicante, Spain  
 **_/conwork_**  
 **Senior developer**  
-Laravel Api + Vue App projects
+Multi-tenant Laravel Api + Vue App development  
+CI worfklows update  
+New Services (Apis) development  
+Legacy projects feature development and bug fixing    
     - **pdfserver**: laravel-php api recives html content, returns base64 encoded pdf  
 `dev env | prod env` / `windows | ubuntu` / `php` / `mysql` | `mariadb` / `composer` / `laravel` / `node` / `npm` / `puppeteer` / `chromium`
     - **cemex api**: logistics services management app, manages (intern: crud, extern: outsource directly assigned to provider, outsource provider pickable contest, contest outsource pick by provider) concrete truck / mixer services based of concrete plants requirements (truck axles, volumen)  
