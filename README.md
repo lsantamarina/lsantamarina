@@ -31,7 +31,7 @@ Stuttgart, Germany
 **Junior developer / Online developer**  
 Yii & Yii2 projects (corporate websites with customized backends, campaign specials, warranty management, ...)  
 _Mercedes-Benz Vans, Schneider, Weleda, FEIN, Leitz_  
-`dev env | stage, prod envs` / `macosx | unix` / `docker` / `vagrant` / `php` / `mysql` / `composer` / `yii | yii2` / `grunt  gulp` / `js` / `jquery` / `sass | scss` / `css3`
+`dev env | stage env | prod env` / `macosx | unix` / `docker` / `vagrant` / `php` / `mysql` / `composer` / `yii | yii2` / `grunt  gulp` / `js` / `jquery` / `sass | scss` / `css3` / `jira`
 
 - **04-2011 – 02-2012**  
 San Sebastian, Spain  
